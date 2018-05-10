@@ -1,6 +1,6 @@
 baseURL = "https://ccr-china.github.io/"
-title = "SoCCR"
-subtitle = "SoCCR"
+title = "CCR"
+subtitle = "CCR"
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
@@ -56,7 +56,7 @@ canonifyURLs = true
 # by entering your username. The links to your account will be
 # created automatically.
     rss             = "Needed" # leave this to blank if you do not want RSS feed icon to appear on top
-    github          = "soccr"
+    github          = "ccr-china"
     flickr          = ""
     instagram       = ""
     youtube         = ""
@@ -67,7 +67,7 @@ canonifyURLs = true
     googleplus      = ""
     facebook        = ""
     twitter         = ""
-    email           = "joe@example.com"
+    email           = "computational.communication@gmail.com"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -78,7 +78,7 @@ canonifyURLs = true
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
     search = true
     mailchimp = true
-    mailchimpform = "//balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745"
+    mailchimpform = "//github.us18.list-manage.com/subscribe/post?u=580f570d43a5d2628de37ed42&amp;id=693"
     author = true
     facebook_like = false
 

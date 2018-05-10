@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 #ssh-add ~/.ssh/id_rsa
-#git remote set-url origin git@github.com:computational-center/lab-hugo-source.git
+#git remote set-url origin git@github.com:ccr-china/ccr-china.git
 #git checkout gh-pages
 
 

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on SoCCR</title>
-    <link>https://soccr.github.io/categories/</link>
-    <description>Recent content in Categories on SoCCR</description>
+    <title>Categories on CCR</title>
+    <link>https://ccr-china.github.io/categories/</link>
+    <description>Recent content in Categories on CCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://soccr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ccr-china.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News</title>
-      <link>https://soccr.github.io/categories/news/</link>
+      <link>https://ccr-china.github.io/categories/news/</link>
       <pubDate>Sat, 21 Apr 2018 13:07:31 +0200</pubDate>
       
-      <guid>https://soccr.github.io/categories/news/</guid>
+      <guid>https://ccr-china.github.io/categories/news/</guid>
       <description></description>
     </item>
     

@@ -18,7 +18,7 @@ cd ccr-china.github.io
 
 #cd computational-center.github.io
 
-cp -av /Users/datalab/github/ccr-hugo/public/* .
+cp -av /Users/datalab/github/ccr-china/public/* .
 
 # Add changes to git.
 git add -A
@@ -38,4 +38,4 @@ git push origin master
 # Come Back
 cd ..
 
-cd lab-hugo-source
+cd ccr-china
