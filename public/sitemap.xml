@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://soccr.github.io/contact/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/post/2018-04-21-sccr/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/about/</loc>
+    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/tags/news/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/categories/news/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/post/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://soccr.github.io/tags/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
