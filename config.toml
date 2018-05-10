@@ -15,7 +15,7 @@ canonifyURLs = true
     site_description = "If handled appropriately, data about Internet-based communication and interactivity could revolutionize our understanding of collective human behaviour."
     copyright  = "Copyright"
     avatar = "/images/avatar.png"
-    logo = "/images/logo.png"
+    logo = "/images/logo3.png"
     disable_mathjax = false # set to true to disable MathJax
 
     # Format dates with Go's time formatting

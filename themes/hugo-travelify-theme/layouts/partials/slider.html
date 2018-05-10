@@ -9,7 +9,7 @@
 	<div class="slides {{ if eq $index 0 }} displayblock {{ else }} displaynone {{ end }}">
 	    <figure>
 		<a href="{{ .Permalink }}" title="{{ .Title }}">
-		    <img src="{{ .banner }}" class="pngfix wp-post-image" alt="{{ .Title }}" title="{{ .Title }}">
+		    <img src="{{ .banner }}" width = "1018" height="460" class="pngfix wp-post-image" alt="{{ .Title }}" title="{{ .Title }}">
 		</a>
 	    </figure>
 	    <article class="featured-text">
@@ -23,7 +23,7 @@
 	{{ end }}
 	{{ end }}
 	{{ end }}
-	
+
 	{{ if and (isset .Site.Params.slider "manual") (.Site.Params.slider.manual) }}
 	{{ range $index, $page := .Site.Pages.ByParam "slider" }}
 	{{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
@@ -48,9 +48,6 @@
   <nav id="controllers" class="clearfix">
   </nav>
   <!-- #controllers -->
-</section><!-- .featured-slider -->		
+</section><!-- .featured-slider -->
 {{ end }}
 {{ end }}
-
-
-
