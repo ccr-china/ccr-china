@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ccr-china.github.io/post/2018-05-16-ccra-cfp/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/contact/</loc>
     <lastmod>2018-04-21T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ccr-china.github.io/post/2018-04-21-sccr/</loc>
+    <loc>https://ccr-china.github.io/post/2018-04-21-ccra/</loc>
     <lastmod>2018-04-21T13:07:31+02:00</lastmod>
   </url>
   
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/</loc>
-    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -34,8 +39,26 @@
   </url>
   
   <url>
+    <loc>https://ccr-china.github.io/tags/ccra/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ccr-china.github.io/tags/conference/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ccr-china.github.io/categories/conference/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/tags/news/</loc>
-    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,13 +70,13 @@
   
   <url>
     <loc>https://ccr-china.github.io/post/</loc>
-    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/tags/</loc>
-    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

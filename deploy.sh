@@ -16,8 +16,6 @@ cd ccr-china.github.io
 
 #git checkout gh-pages
 
-#cd computational-center.github.io
-
 cp -av /Users/datalab/github/ccr-china/public/* .
 
 # Add changes to git.
