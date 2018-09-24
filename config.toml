@@ -80,7 +80,7 @@ canonifyURLs = true
     categories = true
     tags = true
     tag_cloud = true
-    archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
+    archives = false # it does not work
     search = true
     mailchimp = true
     mailchimpform = "//github.us18.list-manage.com/subscribe/post?u=580f570d43a5d2628de37ed42&amp;id=693"

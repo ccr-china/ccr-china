@@ -2,7 +2,7 @@
 title= "计算传播学研究委员会管理规定"
 date = "2018-09-21T13:07:31+02:00"
 banner = "/banners/featured-6.jpg"
-slider = true
+slider = false
 nodateline = true
 noprevnext = true
 disable_comments = true
