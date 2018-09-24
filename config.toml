@@ -34,13 +34,18 @@ canonifyURLs = true
 
 
 [[menu.main]]
-    name  = "About"
+    name  = "学会简介"
     url   = "/about/"
     weight = 10
 
 [[menu.main]]
-    name  = "Contact"
+    name  = "联系我们"
     url   = "/contact/"
+    weight = 30
+
+[[menu.main]]
+    name  = "学会章程"
+    url   = "/constitution/"
     weight = 20
 
 [params.share]

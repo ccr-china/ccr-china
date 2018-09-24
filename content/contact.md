@@ -1,7 +1,7 @@
 +++
 title= "Contact"
 date = "2018-04-21T13:07:31+02:00"
-banner = "banners/featured-6.jpg"
+banner = "/banners/featured-5.jpg"
 slider = true
 nodateline = true
 noprevnext = true
