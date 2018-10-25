@@ -9,9 +9,24 @@ disable_comments = true
 +++
 
 
-中国新闻史学会常务理事会**第五届第六次会议**于2018年4月21日在西安召开，审核了建立计算传播学研究委员会的申请报告，经过充分的陈述答辩和热烈讨论，与会的常务理事通过投票表决，同意成立计算传播学研究委员会 ，由祝建华教授担任负责人。
+**计算传播学研究委员会**（Computational Communication Research Association, 简写为CCRA）是由从事计算传播学研究的单位和个人自愿结成的全国性学术团体，隶属于中国新闻史学会。在祝建华教授的倡导下，学会由南京大学新闻传播学院、香港城市大学传播研究中心等中国28所新闻院校联合发起，于2018年4月成立。学会致力于全面推进中国计算传播学领域的教学与科研，尤其注重跨学科与国际化发展。
 
 <!--more-->
+
+Computational Communication Research Association (**CCRA**) is a nationwide academic organization formed voluntarily by units and individuals engaged in computational communication research, and it is affiliated with Chinese Association for History of Journalism and Communication. Under the initiative of Professor Jonathan Zhu, CCRA was jointly sponsored by 28 schools of journalism and communication, such as the School of Journalism and Communication in Nanjing University, and the Communication Research Center in City University of Hong Kong, and it was established in April 2018. CCRA is committed to promoting the teaching and scientific research in the field of computational communication in China, with a particular emphasis on interdisciplinary and international development.
+
+
+Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xianlin Campus), Qixia District, 100084 Nanjing, China
+
+- 网址：https://ccr-china.github.io
+- 电子邮箱：comput_comm@163.com
+- 通讯地址：南京市栖霞区仙林大道168号南京大学（仙林校区）新闻与传播学院307（210023）
+- 微信公号：jisuanchuanbo
+
+
+
+中国新闻史学会常务理事会**第五届第六次会议**于2018年4月21日在西安召开，审核了建立计算传播学研究委员会的申请报告，经过充分的陈述答辩和热烈讨论，与会的常务理事通过投票表决，同意成立计算传播学研究委员会 ，由祝建华教授担任负责人。
+
 
 为全面推进中国计算传播学领域的教学、科研和学科水平，促进学科内外交叉与优势互补，促进中外传播学界交流并提升中国传播学的国际地位，南京大学新闻传播学院、香港城市大学传播研究中心等中国28所新闻院校联合发起，申报发起人共计66人申请设立中国新闻史学会计算传播学研究委员会。
 
@@ -20,9 +35,7 @@ disable_comments = true
 
 近年来，日益增多的国内外知名大学开始将计算传播学研究作为新兴的学科发展领域。国际传播学会（ICA）自2016设立了计算方法小组，由华人学者彭泰权任首任主席。2016年9月，第一届计算传播学论坛在南京大学举办，40多位国内以及海外专家学者和数百名学生参加。2017年9月，第二届计算传播学论坛增加了一天半的工作坊，以讲习班的形式介绍计算传播学基础知识。其中，工作坊学员超过60人，听众超过百人，来自内地、香港、美国等二十余所高校和数据工场、百度、今日头条、中央电视台、腾讯等业界公司。
 
-计算传播学研究委员会的成立标志着中国与国际传播学之间的同步发展，有效地提升了中国传播学的国际地位。
-
-计算传播学研究委员会将严格遵循`开放、透明、民主、公平`的基本原则，推动计算传播学研究朝向跨学科和国际化的方向健康持续发展。具体活动包括召开计算传播学年会；制定有关计算传播学研究的全国性科研规划；出版计算传播学研究刊物；组织计算传播学的专项调查咨询活动；搜集整理有关计算传播学资料；评选优秀的计算传播学研究成果；组织计算传播学研究相关培训工作；开展计算传播研究方面的国际和国内学术交流活动等。委员会将尽快设立秘书处、发布成立公告、发展会员和理事单位、做好章程拟定等日常文档整理和外联组织工作、组织计算传播学论坛暨工作坊，按时召开成立大会并进行选举工作。
+计算传播学研究委员会的成立标志着中国与国际传播学之间的同步发展，有效地提升了中国传播学的国际地位。计算传播学研究委员会将严格遵循`开放、透明、民主、公平`的基本原则，推动计算传播学研究朝向跨学科和国际化的方向健康持续发展。具体活动包括召开计算传播学年会；制定有关计算传播学研究的全国性科研规划；出版计算传播学研究刊物；组织计算传播学的专项调查咨询活动；搜集整理有关计算传播学资料；评选优秀的计算传播学研究成果；组织计算传播学研究相关培训工作；开展计算传播研究方面的国际和国内学术交流活动等。委员会将尽快设立秘书处、发布成立公告、发展会员和理事单位、做好章程拟定等日常文档整理和外联组织工作、组织计算传播学论坛暨工作坊，按时召开成立大会并进行选举工作。
 
 
 ## 一．理事会

@@ -10,10 +10,10 @@ disable_comments = true
 
 中国新闻史学会计算传播学研究委员会 (简称“计算传播学会”)
 
-![](/images/logo4.png)
-
-
 ## Computational Communication Research Association
 
-- Email: computational.communication@gmail.com
-- ADDRESS: A307 Feiyimin Building, 22 Gulou District, Nanjing, Jiangsu, China
+
+- 网址：https://ccr-china.github.io
+- 电子邮箱：comput_comm@163.com
+- 通讯地址：南京市栖霞区仙林大道168号南京大学（仙林校区）新闻与传播学院307（210023）
+- 微信公号：jisuanchuanbo
