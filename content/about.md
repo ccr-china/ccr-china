@@ -20,7 +20,7 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 
 - 网址：https://ccr-china.github.io
 - 电子邮箱：comput_comm@163.com
-- 通讯地址：南京市栖霞区仙林大道168号南京大学（仙林校区）新闻与传播学院307（210023）
+- 通讯地址：南京市栖霞区仙林大道168号南京大学（仙林校区）新闻传播学院307（210023）
 - 微信公号：jisuanchuanbo
 
 
