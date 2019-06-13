@@ -11,7 +11,7 @@ cd ..
 cd ccr-china.github.io
 
 #ssh-add ~/.ssh/id_rsa
-#git remote set-url origin git@github.com:soccr/soccr.github.io.git
+#git remote set-url origin git@github.com:ccr-china/ccr-china.github.io.git
 #git remote set-url origin git@github.com:data-science-lab/collaboratory.git
 
 #git checkout gh-pages
