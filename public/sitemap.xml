@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ccr-china.github.io/members/</loc>
+    <lastmod>2019-09-21T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ccr-china.github.io/post/2019-09-22-conference/</loc>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/post/2019-03-19-china-dataviz-competition/</loc>
     <lastmod>2019-03-18T13:07:31+02:00</lastmod>
   </url>
@@ -109,7 +119,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/</loc>
-    <lastmod>2019-03-18T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-21T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -120,7 +130,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/tags/ccra/</loc>
-    <lastmod>2019-03-18T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,19 +160,19 @@
   
   <url>
     <loc>https://ccr-china.github.io/categories/organization/</loc>
-    <lastmod>2019-03-18T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/post/</loc>
-    <lastmod>2019-03-18T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/tags/</loc>
-    <lastmod>2019-03-18T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,7 +196,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/tags/%E5%B9%B4%E4%BC%9A/</loc>
-    <lastmod>2018-09-23T13:07:31+02:00</lastmod>
+    <lastmod>2019-09-20T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
