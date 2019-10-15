@@ -9,6 +9,7 @@ disable_comments = true
 +++
 
 
+
 1. [曹博林](https://ccr-china.github.io/membership/曹博林.html)
 1. [曾丽红](https://ccr-china.github.io/membership/曾丽红.html)
 1. [曾润喜](https://ccr-china.github.io/membership/曾润喜.html)
@@ -99,3 +100,16 @@ disable_comments = true
 1. [周金连](https://ccr-china.github.io/membership/周金连.html)
 1. [周翔](https://ccr-china.github.io/membership/周翔.html)
 1. [祝建华](https://ccr-china.github.io/membership/祝建华.html)
+
+
+## 只需三步完成会员申请
+
+1. 下载并填写申请表
+https://pan.baidu.com/s/1U_wbFBgWRCsoYelspt7FuQ
+
+2. 缴纳会费说明：
+本会为史学会的二级分会，会员缴纳会费遵照史学会会费标准，登录史学会官网的会费缴纳系统 （ http://www.jca-china.org/ ）缴费。
+
+3. 发送申请表
+- 联系人：尚可可
+- 申请表电子文档发送至电子邮箱：comput_comm@163.com
