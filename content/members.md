@@ -111,5 +111,6 @@ https://pan.baidu.com/s/1U_wbFBgWRCsoYelspt7FuQ
 本会为史学会的二级分会，会员缴纳会费遵照史学会会费标准，登录史学会官网的会费缴纳系统 （ http://www.jca-china.org/ ）缴费。
 
 3. 发送申请表
+
 - 联系人：尚可可
 - 申请表电子文档发送至电子邮箱：comput_comm@163.com
