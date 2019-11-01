@@ -8,7 +8,7 @@ noprevnext = true
 disable_comments = true
 +++
 
-![](/banners/featured-6.jpg)
+
 
 # 第一章  总则 [^1]
 
@@ -19,7 +19,7 @@ disable_comments = true
 
 <!--more-->
 
-
+![](/banners/featured-6.jpg)
 
 
 2.	本会是由从事计算传播学研究的单位和个人自愿结成的全国性学术团体，系非营利性社会组织。本会的宗旨为：遵守国家法律法规，遵守职业道德，团结全国计算传播学领域的学者和业界精英，共同推动计算传播学的发展。
