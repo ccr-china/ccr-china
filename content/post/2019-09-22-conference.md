@@ -1,8 +1,9 @@
 +++
-title= "中国计算传播学会2019年年会征文通知"
+title= "中国计算传播学会2019年会征文通知"
 date = "2019-09-20T13:07:31+02:00"
 tags = ["年会", "CCRA"]
 categories = ["Organization"]
+banner = "/banners/featured-8.jpg"
 slider = false
 +++
 
@@ -16,6 +17,9 @@ slider = false
 - 会议地点：中山大学传播与设计学院
 
 <!--more-->
+
+![](/banners/featured-8.jpg)
+
 
 ## 时间进度表
 

@@ -8,12 +8,15 @@ noprevnext = true
 disable_comments = true
 +++
 
+
+
 # 第一章  总则 [^1]
 
 [^1]: 2018年9月21日下午计算传播学研究委员会举行第一次会员大会，通过《中国新闻史学会计算传播学研究委员会管理规定》。
 
-
 <!--more-->
+
+![](/banners/featured-6.jpg)
 
 ## 第一条  本会性质：
 1.	本学会的名称为中国新闻史学会计算传播学研究委员会，简称计算传播学会（英文译名：Computational Communication Research Association, 缩写：CCRA）。

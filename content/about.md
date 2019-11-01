@@ -1,7 +1,7 @@
 +++
 title= "关于学会"
 date = "2018-09-21T13:07:31+02:00"
-banner = "/banners/featured-0.jpg"
+banner = "/banners/featured-11.jpg"
 slider = true
 nodateline = true
 noprevnext = true
@@ -12,6 +12,9 @@ disable_comments = true
 **计算传播学研究委员会**（Computational Communication Research Association, 简写为CCRA）是由从事计算传播学研究的单位和个人自愿结成的全国性学术团体，隶属于中国新闻史学会。在祝建华教授的倡导下，学会由南京大学新闻传播学院、香港城市大学传播研究中心等中国28所新闻院校联合发起，于2018年4月成立。学会致力于全面推进中国计算传播学领域的教学与科研，尤其注重跨学科与国际化发展。
 
 <!--more-->
+
+![](/banners/featured-11.jpg)
+
 
 Computational Communication Research Association (**CCRA**) is a nationwide academic organization formed voluntarily by units and individuals engaged in computational communication research, and it is affiliated with Chinese Association for History of Journalism and Communication. Under the initiative of Professor Jonathan Zhu, CCRA was jointly sponsored by 28 schools of journalism and communication, such as the School of Journalism and Communication in Nanjing University, and the Communication Research Center in City University of Hong Kong, and it was established in April 2018. CCRA is committed to promoting the teaching and scientific research in the field of computational communication in China, with a particular emphasis on interdisciplinary and international development.
 

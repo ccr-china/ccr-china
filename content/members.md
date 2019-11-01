@@ -1,13 +1,14 @@
 +++
 title= "个人会员列表"
 date = "2019-09-21T13:07:31+02:00"
-banner = "/banners/featured-0.jpg"
+banner = "/banners/featured-12.gif"
 slider = true
 nodateline = true
 noprevnext = true
 disable_comments = true
 +++
 
+![](/banners/featured-10.jpg)
 
 
 1. [曹博林](https://ccr-china.github.io/membership/曹博林.html)
