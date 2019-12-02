@@ -6,21 +6,22 @@
     <description>Recent content in Categories on CCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2019 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://ccr-china.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Conference</title>
-      <link>https://ccr-china.github.io/categories/conference/</link>
-      <pubDate>Tue, 15 May 2018 13:07:31 +0200</pubDate>
+      <title>Organization</title>
+      <link>https://ccr-china.github.io/categories/organization/</link>
+      <pubDate>Sat, 30 Nov 2019 13:07:31 +0200</pubDate>
       
-      <guid>https://ccr-china.github.io/categories/conference/</guid>
+      <guid>https://ccr-china.github.io/categories/organization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>News</title>
+      <title>news</title>
       <link>https://ccr-china.github.io/categories/news/</link>
       <pubDate>Sun, 23 Sep 2018 13:07:31 +0200</pubDate>
       
@@ -29,11 +30,11 @@
     </item>
     
     <item>
-      <title>Organization</title>
-      <link>https://ccr-china.github.io/categories/organization/</link>
-      <pubDate>Fri, 20 Sep 2019 13:07:31 +0200</pubDate>
+      <title>conference</title>
+      <link>https://ccr-china.github.io/categories/conference/</link>
+      <pubDate>Tue, 15 May 2018 13:07:31 +0200</pubDate>
       
-      <guid>https://ccr-china.github.io/categories/organization/</guid>
+      <guid>https://ccr-china.github.io/categories/conference/</guid>
       <description></description>
     </item>
     
