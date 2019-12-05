@@ -39,7 +39,7 @@ canonifyURLs = true
     weight = 10
 
 [[menu.main]]
-    name  = "个人会员"
+    name  = "学会会员"
     url   = "/members/"
     weight = 15
 
