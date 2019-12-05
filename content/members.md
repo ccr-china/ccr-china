@@ -1,5 +1,5 @@
 +++
-title= "个人会员列表"
+title= "会员列表"
 date = "2019-09-21T13:07:31+02:00"
 banner = "/banners/featured-12.gif"
 slider = true
