@@ -103,6 +103,8 @@ disable_comments = true
 1. [周翔](https://ccr-china.github.io/membership/周翔.html)
 1. [祝建华](https://ccr-china.github.io/membership/祝建华.html)
 
+<!--more-->
+
 ## 团体会员
 
 ### 发起团体
