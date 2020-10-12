@@ -17,7 +17,7 @@
                 <h3 class="rpwe-title">
 		    <a href="{{ .Permalink }}" title="Permalink to {{ .Title }}" >{{ .Title }}</a>
 		</h3>
-                <time class="rpwe-time published" datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format}}</time>
+                <time class="rpwe-time published" datetime="{{ .Date }}">{{ .Date.Format .Site.Params.date_format }}</time>
             </li>
             {{ end }}
         </ul>

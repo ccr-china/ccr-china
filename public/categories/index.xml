@@ -6,7 +6,7 @@
     <description>Recent content in Categories on CCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://ccr-china.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,14 +14,14 @@
     <item>
       <title>Organization</title>
       <link>https://ccr-china.github.io/categories/organization/</link>
-      <pubDate>Sat, 30 Nov 2019 13:07:31 +0200</pubDate>
+      <pubDate>Tue, 22 Sep 2020 13:07:31 +0200</pubDate>
       
       <guid>https://ccr-china.github.io/categories/organization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>News</title>
+      <title>news</title>
       <link>https://ccr-china.github.io/categories/news/</link>
       <pubDate>Sun, 23 Sep 2018 13:07:31 +0200</pubDate>
       

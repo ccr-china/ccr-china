@@ -12,7 +12,7 @@ canonifyURLs = true
 [params]
     # Tell me who you are
     author = "chengjun"
-    site_description = "If handled appropriately, data about Internet-based communication and interactivity could revolutionize our understanding of collective human behaviour."
+    site_description = ""
     copyright  = "Copyright"
     avatar = "/images/avatar.png"
     logo = "/images/logo2020.png"

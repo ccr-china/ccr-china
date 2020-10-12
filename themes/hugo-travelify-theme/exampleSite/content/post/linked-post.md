@@ -4,7 +4,7 @@ date = "2015-10-02T21:49:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming"]
 menu = "main"
-banner = "banners/featured-2.jpg"
+banner = "banners/spain6-1018x460.jpg"
 +++
 
 I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:

@@ -3,10 +3,12 @@ The homepage of this Travelify theme is at [https://themes.gohugo.io/hugo-travel
 Some of the important features of Hugo-Travelify-Theme are: 
 
 - Automatic slider generation with banner images
-
-- l10n data (for translation purposes)
-
+- Subscribe via Email through Mailchimp integration (You have to sign up and generate the HTML code)
+- Multiple author support (Included in the taxonomy)
+- i10n data
 - Disqus integration
+
+- logo (with option to switch on or off the title)
 
 - Social media sharing options
 
@@ -64,7 +66,7 @@ exampleSite
             spain6-1018x460.jpg
 ```
 
-To get your site running, copy `config.toml` and `data/l10n.toml` into the root folder. (Please refer to http://gohugo.io/overview/quickstart/ for installing a Hugo theme.)
+To get your site running, copy the entire contents of the example site using `cp -r themes/hugo-travelify-theme/exampleSite/* .` into the root folder. (Please refer to http://gohugo.io/overview/quickstart/ for installing a Hugo theme.)
 
 ## The `config` file
 
@@ -140,11 +142,18 @@ For nested menus, you can use the following format:
     name  = "Contact21"
     url   = "/contact/"
     parent = "Contact2"
+    weight = 20
 
 [[menu.main]]
     name  = "Contact22"
     url   = "/contact/"
     parent = "Contact2"
+    weight = 10
+
+[[menu.main]]
+    name  = "Contact3"
+    url   = "/contact/"
+    parent = "Contact"
 ```
 
 ### 5. Sidebars
@@ -167,6 +176,7 @@ This theme also provides a profile section. Add your social network accounts to 
 You can add widgets to the right sidebar. The following widgets are available:
 
 - recent articles
+- Multiple author support
 - category list
 - tag list
 - tag cloud
@@ -183,6 +193,12 @@ You can deactivate them under `params.widgets`:
     tag_cloud = true
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
     search = true
+	author = true
+	mailchimp = true
+	mailchimpform = "//mailchimp/url/goes/here"
+    # grab the mailchimpform value by following instructions here - https://mailchimp.com/help/add-a-signup-form-to-your-website/
+    # Copy the URL in the action parameter inside the form
+    # <div id="mc_embed_signup"><form action="https://balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745" method="post"
 ```
 
 ### 8. Date line
@@ -221,6 +237,20 @@ You can enable to disable social media sharing buttons selectively using the fol
     googleplus = true
     linkedin = true
 ```
+### 13. Permalink Slugs
+
+You can customize the slugs to look like this 
+
+e.g. in the `[permalinks]` section, categories can be set up in these
+different ways:
+
+
+```
+categories = "/category/:slug/"
+categories = "/categories/:slug/"
+```
+
+Thanks to @sandipb with the PR - https://github.com/balaramadurai/hugo-travelify-theme/pull/31
 
 ## Nearly finished
 

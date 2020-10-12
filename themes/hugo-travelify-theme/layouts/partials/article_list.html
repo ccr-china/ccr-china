@@ -1,15 +1,12 @@
-{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-{{ $readmore := "Read More" }}
-{{ if .Site.Data.l10n.articles.read_more }}
-{{ $readmore := .Site.Data.l10n.articles.read_more }}
-{{ end }}
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+
 {{ range $paginator.Pages }}
 <section id="main" class="post type-post status-publish format-standard has-post-thumbnail hentry">
   <article>
     {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
     <figure class="post-featured-image">
       <a href="{{ .RelPermalink }}" itemprop="url">
-	<img src="{{ .Params.banner }}" class="attachment-featured size-featured wp-post-image"/>
+      <img src="{{ .Params.banner | absURL }}" class="attachment-featured size-featured wp-post-image"/>
       </a>
     </figure>
     {{ end }}
@@ -17,18 +14,20 @@
     {{ partial "article_header" . }}
     <div class="article-entry entry-content clearfix" itemprop="articleBody">
       <p>
-        {{ printf "%s" .Summary | markdownify }}
+        {{ .Summary }}
+        <br>
       </p>
-      {{ partial "article_footer" . }}
-      <a class="readmore" href="{{ .Permalink }}">
-        {{ $readmore }}
-      </a>
-      <!--{{ partial "share" . }}-->
+      {{ partial "share" . }}
     </div>
-
-    <!--{{ partial "article_footer" . }}-->
-
-</div>
+    {{ partial "article_footer" . }}
+    {{ if .Truncated }}
+    <span>
+      <a class="readmore" href="{{ .RelPermalink }}">
+      {{ with .Site.Data.l10n.articles.read_more }}{{ . }}{{ end }}
+      </a>
+    </span>
+    {{ end }}{{/* if .Truncated */}}
+    </div>
 
 
 </article>
