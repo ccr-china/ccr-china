@@ -1,0 +1,39 @@
+name: Deploy to chengjun.github.io
+# https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-deploy-to-external-repository-external_repository
+# When you use deploy_key, set your private key to the repository which includes this action
+# and set your public key to your external repository.
+# https://github.com/wowchemy/wowchemy-hugo-modules/issues/2240
+
+on:
+  push:
+    branches:
+      - master  # Set a branch name to trigger deployment
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --gc --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: ccr-china/ccr-china.github.io
+          publish_branch: master  # default: gh-pages
+          publish_dir: ./public
