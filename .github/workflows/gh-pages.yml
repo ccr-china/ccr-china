@@ -1,4 +1,4 @@
-name: Deploy to chengjun.github.io
+name: Deploy to ccra-china.github.io
 # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-deploy-to-external-repository-external_repository
 # When you use deploy_key, set your private key to the repository which includes this action
 # and set your public key to your external repository.
