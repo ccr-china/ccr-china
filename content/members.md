@@ -1,5 +1,5 @@
 +++
-title= "会员列表"
+title= "会员列表"
 date = "2019-09-21T13:07:31+02:00"
 banner = "/banners/featured-12.gif"
 slider = true
@@ -157,7 +157,7 @@ disable_comments = true
 
 ## 只需三步完成会员申请
 
-一、下载并填写申请表
+一、下载并填写申请表
 https://pan.baidu.com/s/1U_wbFBgWRCsoYelspt7FuQ
 
 二、缴纳会费
