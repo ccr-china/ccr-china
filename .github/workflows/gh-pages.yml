@@ -33,7 +33,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }} #deploy_key -> github_token !
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} #deploy_key -> github_token !
           external_repository: ccr-china/ccr-china.github.io
           publish_branch: master  # default: gh-pages
           publish_dir: ./public
