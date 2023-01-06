@@ -49,7 +49,7 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 - 复旦大学新闻学院
 - 北京师范大学新闻传播学院
 - 中国人民大学新闻学院
-- 中山大学传播与设计学院
+- 中山大学新闻传播学院
 - 北京大学新媒体研究院
 - 华中科技大学新闻与信息传播学院
 - 武汉大学新闻与传播学院
