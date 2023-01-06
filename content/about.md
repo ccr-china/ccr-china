@@ -72,6 +72,7 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 ## 二．理事长
 
 **现任理事长**：
+
 - 钟智锦 （中山大学）
 
 **历任理事长**：
@@ -83,5 +84,15 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 
 ## 三．联络处
 
-- 秘书长：王成军 （南京大学）
-- 副秘书长：尚可可 （南京大学）
+**联络处**：
+
+- 中山大学新闻传播学院
+
+**秘书长**：
+
+- 张伦 （北京师范大学）
+- 张津广 （中山大学）
+
+**副秘书长**：
+
+- 刘洋 （中山大学）
