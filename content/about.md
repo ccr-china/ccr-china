@@ -66,7 +66,7 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 - 周翔（汕头大学）
 - 相德宝（上海外国语大学）
 - 张子柯（杭州师范大学）
-- 吴小坤（华南理工大学）
+- 卢远航（华南理工大学）
 
 
 ## 二．理事长
