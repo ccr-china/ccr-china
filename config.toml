@@ -15,7 +15,7 @@ canonifyURLs = true
     site_description = ""
     copyright  = "Copyright"
     avatar = "/images/avatar.png"
-    logo = "/images/AI-CCR.svg"
+    logo = "/images/2024AI-CCR-ai.png"
     disable_mathjax = false # set to true to disable MathJax
 
     # Format dates with Go's time formatting
