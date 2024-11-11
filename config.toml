@@ -4,7 +4,7 @@ subtitle = "CCR"
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "hugo-travelify-theme"
-DisqusShortname = ""
+# DisqusShortname = "" # .Site.DisqusShortname was deprecated
 GoogleAnalytics = ""
 canonifyURLs = true
 # rssURI = "feed/" #deprecated feature
@@ -60,7 +60,7 @@ canonifyURLs = true
     linkedin = true
     email = true
 
-[social]
+[params.social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
