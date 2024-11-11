@@ -1,5 +1,5 @@
 +++
-title= "计算传播学研究委员会管理规定"
+title= "专委员会管理规定"
 date = "2018-09-21T13:07:31+02:00"
 banner = "/banners/featured-6.jpg"
 slider = true
