@@ -3,6 +3,7 @@ name: Deploy to ccra-china.github.io
 # When you use deploy_key, set your private key to the repository which includes this action
 # and set your public key to your external repository.
 # https://github.com/wowchemy/wowchemy-hugo-modules/issues/2240
+# https://github.com/peaceiris/actions-hugo
 
 on:
   push:
@@ -16,7 +17,7 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
