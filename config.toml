@@ -45,7 +45,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name  = "学会章程"
-    url   = "/constitution/"
+    url   = "/constitution2024/"
     weight = 20
 
 [[menu.main]]
