@@ -76,8 +76,5 @@ Address: School of Journalism and Communication, Rm. 307, Nanjing University (Xi
 
 **秘书长**：
 
-- 张伦（北京师范大学）
-
-**副秘书长**：
-
 - 官璐（复旦大学）
+
